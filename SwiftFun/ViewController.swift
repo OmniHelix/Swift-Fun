@@ -8,7 +8,7 @@
 
 import UIKit
 
-//Test cimmit
+//Test commit
 
 class ViewController: UIViewController {
     
